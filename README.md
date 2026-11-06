@@ -45,7 +45,7 @@ I work across the entire development lifecycle — from architecture and APIs to
 
 Building its mobile applications, web platforms, and backend infrastructure, with a focus on scalable architecture, payments, and marketplace operations.
 
-**[Mandadito](https://github.com/Welleee/MandaditoApp)** — A local commerce and delivery platform connecting customers, businesses, and independent couriers.
+**Graby** — A local commerce and delivery platform connecting customers, businesses, and independent couriers.
 
 Designed and developed the application ecosystem, backend services, and deployment infrastructure.
 
